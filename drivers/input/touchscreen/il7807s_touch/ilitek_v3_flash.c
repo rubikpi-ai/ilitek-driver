@@ -1,3 +1,5 @@
+/* SPDX-license-Indentifier: GPL-2.0-only */
+
 /*
  * ILITEK Touch IC driver
  *
