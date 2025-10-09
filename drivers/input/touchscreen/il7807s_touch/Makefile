@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-2.0-only
 BUILD_INFAE := i2c
 BUILD_PLATFORM := qcom
 BUILD_MODULE := n
