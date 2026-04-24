@@ -1,3 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * Copyright (c) ILI Corporation. and/or its subsidiaries.
+ */
+
 /*
  * ILITEK Touch IC driver
  *
